@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6Bie9FoszVo_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">CV Yassine Karroumi</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">CV interactive Yassine Karroumi</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="CV_Yassine_Karroumi_ORG">
+    <organization identifier="CV_Yassine_Karroumi_ORG">
+      <title>CV Yassine Karroumi</title>
+      <item identifier="test_SCO" isvisible="true" identifierref="__6Bie9FoszVo_course_id_RES">
+        <title>CV Yassine Karroumi</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6Bie9FoszVo_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/mouse_1d8f9edc-d5d6-4ee6-9296-d87d258204b1.png" />
+      <file href="story_content/MouseClickSound_f0312cf2-210e-4f52-b248-423be419444d_44100_48_0.mp3" />
+      <file href="mobile/65q23azc8Sw_80_P_50_50_411_412_DX372_DY372_CX51_CY51.png" />
+      <file href="mobile/6TwSUbshZoY_80_P_30_29_458_461_DX332_DY332_CX51_CY51.png" />
+      <file href="mobile/6P1XxaoFXpe_80_DX720_DY720_CX610_CY343.png" />
+      <file href="mobile/5ycIULY9fCk_80_DX256_DY256_CX217_CY217.png" />
+      <file href="mobile/6VfptdJl6xp_80_DX720_DY720_CX611_CY300.jpg" />
+      <file href="mobile/6Bxo7w1GUqo_80_DX720_DY720_CX555_CY272.jpg" />
+      <file href="story_content/5VA4PKwY1pN.html" />
+      <file href="mobile/5VA4PKwY1pN61iZrHTSkQb{Width=400, Height=192}Light_80_DX800_DY800_CX400_CY192.jpg" />
+      <file href="story_content/5qKz06SG5IP.html" />
+      <file href="mobile/5qKz06SG5IP64DiPgiFGZD{Width=400, Height=192}Light_80_DX800_DY800_CX400_CY192.jpg" />
+      <file href="mobile/5aWorKtOeI8_80_DX672_DY672_CX571_CY282.png" />
+      <file href="story_content/5ib2eRfSHK8.html" />
+      <file href="mobile/5ib2eRfSHK85ehg5BAjuei{Width=400, Height=192}Light_80_DX800_DY800_CX400_CY192.jpg" />
+      <file href="mobile/65q23azc8Sw_80_P_50_50_411_412_DX372_DY372_CX254_CY255.png" />
+      <file href="mobile/6TwSUbshZoY_80_P_30_29_458_461_DX332_DY332_CX253_CY255.png" />
+      <file href="mobile/6U92lkCZJRb_80_DX300_DY300_CX253_CY253.png" />
+      <file href="mobile/6YhlKY8K4s8_80_DX80_DY80_CX68_CY68.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6CwIe3mluOX.png" />
+      <file href="mobile/txt__default_63bvO1f1vqZ.png" />
+      <file href="mobile/Shape6SIIgjjpPVH.png" />
+      <file href="mobile/txt__default_6LVRhO7cbJ5.png" />
+      <file href="mobile/txt__default_5owlDdUNXSB.png" />
+      <file href="mobile/txt__default_5f3McR0aoat.png" />
+      <file href="mobile/txt__default_Disabled_5f3McR0aoat.png" />
+      <file href="mobile/txt__default_Visited_Disabled_5f3McR0aoat.png" />
+      <file href="mobile/txt__default_6H5ZcZMYI8H.png" />
+      <file href="mobile/txt__default_Disabled_6H5ZcZMYI8H.png" />
+      <file href="mobile/txt__default_Visited_Disabled_6H5ZcZMYI8H.png" />
+      <file href="mobile/txt__default_60pnySKWGpk.png" />
+      <file href="mobile/txt__default_Disabled_60pnySKWGpk.png" />
+      <file href="mobile/txt__default_Visited_Disabled_60pnySKWGpk.png" />
+      <file href="mobile/txt__default_5g2U8iy5WS4.png" />
+      <file href="mobile/txt__default_Disabled_5g2U8iy5WS4.png" />
+      <file href="mobile/txt__default_Visited_Disabled_5g2U8iy5WS4.png" />
+      <file href="mobile/Shape6U8nYKhVoEt.png" />
+      <file href="mobile/Shape5esfbwcUHrv.png" />
+      <file href="mobile/_default_Visited_Shape5esfbwcUHrv.png" />
+      <file href="mobile/_default_Hover_Shape5esfbwcUHrv.png" />
+      <file href="mobile/_default_Hover_Visited_Shape5esfbwcUHrv.png" />
+      <file href="mobile/Shape6r8xfYHYeUI.png" />
+      <file href="mobile/_default_Visited_Shape6r8xfYHYeUI.png" />
+      <file href="mobile/_default_Hover_Shape6r8xfYHYeUI.png" />
+      <file href="mobile/_default_Hover_Visited_Shape6r8xfYHYeUI.png" />
+      <file href="mobile/Shape6oXVohktLgi.png" />
+      <file href="mobile/_default_Visited_Shape6oXVohktLgi.png" />
+      <file href="mobile/_default_Hover_Shape6oXVohktLgi.png" />
+      <file href="mobile/_default_Hover_Visited_Shape6oXVohktLgi.png" />
+      <file href="mobile/Shape5qXpbxL3Jnc.png" />
+      <file href="mobile/_default_Visited_Shape5qXpbxL3Jnc.png" />
+      <file href="mobile/_default_Hover_Shape5qXpbxL3Jnc.png" />
+      <file href="mobile/_default_Hover_Visited_Shape5qXpbxL3Jnc.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aHrnNEbTO6.js" />
+      <file href="html5/data/js/5lzekl0F3kC.js" />
+      <file href="html5/data/js/67dNF0dNLvg.js" />
+      <file href="html5/data/js/67rU5YqMZ6B.js" />
+      <file href="html5/data/js/6e2GNrOFaPP.js" />
+      <file href="html5/data/js/6mzbJE5pnk0.js" />
+      <file href="html5/data/js/6ZeSlUXKH7c.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
